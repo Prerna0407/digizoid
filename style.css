@@ -45,7 +45,7 @@
     list-style: none;
     padding-top: -24px;
     margin-top: 6px;
-    margin-left: 563px;
+   
     margin-right: 20px;
 
   }
@@ -288,7 +288,7 @@ ul.menu {
     animation: control-width 3s steps(28) 2s both, blink 0.5s infinite;
   }
   .home h1 {
-    font-size: 98px;
+   font-size: 75px;
     font-weight: bolder;
     color: white;
     /* color: var(--main-color); */
@@ -332,7 +332,7 @@ div#about {
   height: 85vh;
 }
 .img2{
-  height: 62vh;
+  height: auto;
   width: 548px;
   border-top-right-radius: 66px;
   border-bottom-left-radius: 66px;
@@ -348,7 +348,7 @@ div#about {
     max-width: 1400px;
 }
 p.pg1 {
-    font-size: 23px;
+  font-size: 18px;
 }
 /* THIRD CSS STARTS */
 .third{
@@ -399,7 +399,7 @@ p.pg1 {
 .get2 {
     color: white;
     font-size: 25px;
-    padding-top: 101px;
+    padding-top: 59px;
 }
 .get3{
   color: #e7225a;
