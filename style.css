@@ -332,8 +332,8 @@ div#about {
   height: 85vh;
 }
 .img2{
-  height: auto;
-  width: 548px;
+    height: 64vh;
+    width: 525px;
   border-top-right-radius: 66px;
   border-bottom-left-radius: 66px;
   margin-bottom: 20px;
@@ -393,13 +393,13 @@ p.pg1 {
 .fourth{
   margin-top: 10px;
   background: linear-gradient(to top right, #020408 0%, #042c6d 100%);
-  height: 29vh;
+    height: 33vh;
 }
 
 .get2 {
-    color: white;
-    font-size: 25px;
-    padding-top: 59px;
+      color: white;
+    font-size: 22px;
+    padding-top: 27px;
 }
 .get3{
   color: #e7225a;
@@ -419,6 +419,7 @@ section.res__gallery {
   align-items: center;
   flex-direction: column;
   margin: 40px auto;
+        margin: 20px 30px 20px -90px;
 }
 section.res__gallery ul {
   display: flex;
@@ -456,7 +457,7 @@ section.res__gallery ul li.active {
   user-select: None;
 }
 div#services {
-  height: 69vh;
+height: 87vh;
 }
 .product .itembox {
   position: relative;
@@ -502,15 +503,17 @@ a[data-fancybox] img {
     max-width: 1514px;
 }
 .service {
-  text-align: center;
+      text-align: center;
     padding: 25px 10px;
     border-radius: 5px;
     font-size: 14px;
+    border: 1px solid blue;
     cursor: pointer;
     background: transparent;
     transition: transform 0.5s, background 0.5s;
-    width: 491px;
-    height: 19vh;
+    width: 414px;
+    height: 23vh;
+    margin: 10px;
 }
 
 .service i {
@@ -562,11 +565,11 @@ a[data-fancybox] img {
   margin-top: -10px;
 }
  .p12 {
-  background: #e7225a;
-  width: 18%;
-  margin-left: 581px;
-  color: white;
-  padding: 6px;
+     background: #e7225a;
+    width: 24%;
+    margin-left: 462px;
+    color: white;
+    padding: 6px;
 
 }
 div#Fourth {
@@ -575,21 +578,21 @@ div#Fourth {
 
 /* about3 css  */
 .about3 {
-  font-size: 20px;
-  color: #03132f;
+ font-size: 19px;
+    color: #03132f;
+    padding: 38px;
 }
 
 
 img.img4 {
-    /* width: fit-content; */
-    width: 101vh;
-    height: 50vh;
+    width: 93vh;
+    height: auto;
 }
 
 h2.par1 {
   color: #031738;
-  font-weight: 600;
-  padding-top: 63px;
+    font-weight: 600;
+    padding-top: 17px;
 }
 .inner4 {
   background: #e7225a;
@@ -611,7 +614,7 @@ h2.par1 {
 }
 
   .portfolio {
-    height: 85vh;
+    height: 111vh;
     width: 100%;
     background-color: white;
     text-align: center;
@@ -679,7 +682,7 @@ h2.par1 {
 }
 
   .contact {
-    height: 85vh;
+      height: 110vh;
     width: 100%;
     background-color: #f7f4f4;
     
@@ -698,8 +701,7 @@ h2.par1 {
   .get6{
     color: #f7f4f4;
     font-size: 32px;
-    padding-top: 35px;
-    /* text-align: center; */
+       padding-top: 16px;
     margin-right: -739px;
   }
   .contact .form-group {
@@ -707,7 +709,6 @@ h2.par1 {
     height: 5vh;
 }
 .contact .input-group {
-  padding: 10px;
   width: 600px;
 }
 .contact span.input-group-addon {
@@ -762,27 +763,24 @@ h2.par1 {
     max-width: 1400px !important;
   }
   .inner5{
-    background: #e7225a;
-    width: 88px;
-    /* margin-left: 145px; */
-    border-radius: 10px;
-    border-radius: 18px;
-    height: 7vh;
-    padding: 26px;
-    margin-top: q;
-    margin-top: 19px;
+   background: #e7225a;
+    width: 79px;
+    border-radius: 14px;
+    height: 8vh;
+    padding: 10px 20px 0px 20px;
+    margin-top: 7px;
     margin-bottom: 10px;
     color: white;
   }
   .contact .inner5 i {
-    font-size: 33px;
+    font-size: 34px;
   }
   .contact h4  {
     color: #0e387b;
     font-weight: 600;
   }
   .contact h5  {
-    font-size: 21px;
+     font-size: 16px;
   
   }
   .p19 {
@@ -790,7 +788,7 @@ h2.par1 {
     width: 11%;
     margin-left: 502px;
     color: white;
-    font-size: 23px;
+    font-size: 16px;
     padding: 3px;
   }
  
@@ -898,12 +896,11 @@ body {
   flex-wrap: wrap;
 }
 .p17 {
-  background: #e7225a;
-  width: 15%;
-  margin-left: 610px;
-  color: white;
-  padding: 5px;
-}
+     background: #e7225a;
+    width: 18%;
+    margin-left: 515px;
+    color: white;
+    padding: 5px;
 .he2{
   color: white;
 }
