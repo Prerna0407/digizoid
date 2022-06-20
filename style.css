@@ -183,8 +183,8 @@ ul.menu {
 
  
   .inner8 {
-    background: #e7225a;
-    width: 111px;
+ background: #e7225a;
+    width: 87px;
     border-radius: 10px;
     border-radius: 11px;
     height: 10vh;
@@ -201,7 +201,21 @@ ul.menu {
   color:black;
     font-weight: 600;
 }
-
+.per1 {
+  background: #e7225a;
+  width: 19%;
+  margin-left: 487px;
+  color: white;
+  padding: 5px;
+}
+.per2{
+  background: #e7225a;
+  width: 11%;
+  margin-left: 515px;
+  color: white;
+  padding: 5px;
+  margin-top: 50px;
+}
 .col-lg-3.col-md-3.col-sm-3 {
   margin: 20px;
   background: white;
@@ -327,9 +341,21 @@ ul.menu {
     font-size: 26px;
     background: #e7225a;
   }
-
+.count-text {
+    font-size: 26px;
+    font-weight: normal;
+    margin-top: -14px;
+    margin-bottom: 0;
+    text-align: center;
+}
+.counter {
+    border-radius: 5px;
+    color: white;
+    /* padding: 20px; */
+    margin-top: 14px;
+}
 div#about {
-  height: 85vh;
+     height: 99vh;
 }
 .img2{
     height: 64vh;
@@ -457,7 +483,7 @@ section.res__gallery ul li.active {
   user-select: None;
 }
 div#services {
-height: 87vh;
+height: 98vh;
 }
 .product .itembox {
   position: relative;
@@ -501,9 +527,10 @@ a[data-fancybox] img {
 
 .con2{
     max-width: 1514px;
+        padding-left: 100px;
 }
 .service {
-      text-align: center;
+  text-align: center;
     padding: 25px 10px;
     border-radius: 5px;
     font-size: 14px;
@@ -512,7 +539,7 @@ a[data-fancybox] img {
     background: transparent;
     transition: transform 0.5s, background 0.5s;
     width: 414px;
-    height: 23vh;
+    height: 28vh;
     margin: 10px;
 }
 
@@ -756,7 +783,7 @@ h2.par1 {
     color: white;
     border: none;
     font-size: 22px;
-    margin-top: 60px;
+    margin-top: 24px;
     padding: 4px;
   }
   .cont5{
@@ -901,6 +928,7 @@ body {
     margin-left: 515px;
     color: white;
     padding: 5px;
+}
 .he2{
   color: white;
 }
