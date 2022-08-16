@@ -202,19 +202,19 @@ color:black;
   font-weight: 600;
 }
 .per1 {
-background: #e7225a;
-width: 19%;
-margin-left: 487px;
-color: white;
-padding: 5px;
+background: #ec0d54;
+    width: 20%;
+    margin-left: 549px;
+    padding-left: 20px;
 }
 .per2{
-background: #e7225a;
-width: 11%;
-margin-left: 515px;
-color: white;
-padding: 5px;
-margin-top: 50px;
+    background: #e7225a;
+    width: 14%;
+    margin-left: 515px;
+    color: white;
+    /* padding: 5px; */
+    padding-left: 32px;
+    margin-top: 50px;
 }
 .col-lg-3.col-md-3.col-sm-3 {
 margin: 20px;
@@ -512,18 +512,19 @@ cursor: zoom-in;
 
 
 .con2 h1 {
-margin-bottom: 60px;
-font-weight: 600;
-position: relative;
-margin-left: -275px;
+    margin-bottom: 60px;
+    font-weight: 600;
+    position: relative;
+    margin-left: px;
+    margin-left: -163px;
 }
 
 .per3 {
-background: #e7225a;
-width: 24%;
-margin-left: 347px;
-color: white;
-padding: 5px;
+  background: #e7225a;
+    width: 24%;
+    margin-left: 414px;
+    color: white;
+    padding: 6px;
 }
 
 .con2{
@@ -570,18 +571,19 @@ margin-left: 7%;
 }
 
 .p321 {
-margin-top: -4px;
-font-weight: 700;
-color: #041d45;
-margin-bottom: 37px;
-margin-left: -219px;
+ 
+    margin-top: -4px;
+    font-weight: 700;
+    color: #041d45;
+    margin-bottom: 37px;
+    margin-left: -91px;
 }
 .p123{
-margin-top: -4px;
-font-weight: 700;
-color: #041d45;
-margin-bottom: -21px;
-margin-left: -219px;
+    margin-top: -2px;
+    font-weight: 700;
+    color: #041d45;
+    margin-bottom: -21px;
+    margin-left: -17px;
 }
 .Fourth p {
 font-size: 18px;
@@ -593,11 +595,14 @@ color: white;
 margin-top: -10px;
 }
 .p12 {
-   background: #e7225a;
-  width: 24%;
-  margin-left: 462px;
-  color: white;
-  padding: 6px;
+     background: #e7225a;
+    width: 23%;
+    margin-left: 496px;
+    color: white;
+    /* padding: 6px; */
+    padding-left: 12px;
+    padding-top: 3px;
+    padding-bottom: 4px;
 
 }
 div#Fourth {
@@ -812,12 +817,14 @@ color: greey;
 
 }
 .p19 {
-  background: #e7225a;
-  width: 11%;
-  margin-left: 502px;
-  color: white;
-  font-size: 16px;
-  padding: 3px;
+    background: #e7225a;
+    width: 12%;
+    margin-left: 543px;
+    color: white;
+    font-size: 18px;
+    padding: 5px;
+    padding-left: 22px;
+
 }
 
 
